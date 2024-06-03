@@ -9,7 +9,7 @@
 ### Generic Repository
 ### Unit of Work
 
-##Setup
+## Setup
 ### Update the connection string in appSettings.json
 ### Open Package Manager Console
 ### Run command `update-database`
